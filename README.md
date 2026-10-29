@@ -35,3 +35,54 @@ A menu-driven Text Buffer System developed using **C programming and a Doubly Li
 ## Purpose
 
 This project demonstrates how a Doubly Linked List can be used to build a basic text editor while implementing important data structures concepts such as insertion, deletion, traversal, and memory management.
+
+##Overview
+## Screenshots
+
+### 1. Screenshot
+![Screenshot 1](Screenshot%202026-10-29%20185748.png)
+
+### 2. Screenshot
+![Screenshot 2](Screenshot%202026-10-29%20185818.png)
+
+### 3. Screenshot
+![Screenshot 3](Screenshot%202026-10-29%20185833.png)
+
+### 4. Screenshot
+![Screenshot 4](Screenshot%202026-10-29%20185844.png)
+
+### 5. Screenshot
+![Screenshot 5](Screenshot%202026-10-29%20185856.png)
+
+### 6. Screenshot
+![Screenshot 6](Screenshot%202026-10-29%20185919.png)
+
+### 7. Screenshot
+![Screenshot 7](Screenshot%202026-10-29%20185932.png)
+
+### 8. Screenshot
+![Screenshot 8](Screenshot%202026-10-29%20185937.png)
+
+### 9. Screenshot
+![Screenshot 9](Screenshot%202026-10-29%20185943.png)
+
+### 10. Screenshot
+![Screenshot 10](Screenshot%202026-10-29%20185949.png)
+
+### 11. Screenshot
+![Screenshot 11](Screenshot%202026-10-29%20190001.png)
+
+### 12. Screenshot
+![Screenshot 12](Screenshot%202026-10-29%20190022.png)
+
+### 13. Screenshot
+![Screenshot 13](Screenshot%202026-10-29%20190028.png)
+
+### 14. Screenshot
+![Screenshot 14](Screenshot%202026-10-29%20190037.png)
+
+### 15. Screenshot
+![Screenshot 15](Screenshot%202026-10-29%20190042.png)
+
+### 16. Screenshot
+![Screenshot 16](Screenshot%202026-10-29%20190048.png)
